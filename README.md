@@ -17,7 +17,8 @@ Tired of clunky GUI timers or setting alarms that are just too rigid? Meet **Tic
 ## 🎬 Quick Demo
 
 See it in action – it's as easy as pie! 🥧
-![Timer Screenshot](./img/screenshot1.png)
+![Timer Screenshot with quit](./img/screenshot1.png)
+![Timer Screenshot with complete](./img/screenshot2.png)
 
 ## 🛠️ Installation
 
